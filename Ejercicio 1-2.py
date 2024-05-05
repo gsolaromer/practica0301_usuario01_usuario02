@@ -9,6 +9,7 @@ def fib_r(n):
 
 for x in range(40):
     print(fib_r(x))
+
 end_time = datetime.datetime.now()
 
 print(f"El tiempo de ejecución es: {end_time - start_time}")

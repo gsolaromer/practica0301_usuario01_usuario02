@@ -14,7 +14,7 @@ def fibonacci(n):
     return b
 
 for x in range(40):
-        print (fibonacci(x))
+    print (fibonacci(x))
 
 end_time = datetime.datetime.now()
 
