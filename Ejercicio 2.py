@@ -1,7 +1,6 @@
 import csv
 import cProfile
 
-
 def capitalizar_nombre(nombre):
     '''Función que capitaliza el nombre.
     
